@@ -21,7 +21,7 @@
 
 ### 3. 인터랙티브 UI/UX
 
-- 음식 이모지가 내리는 애니메이션 효과 - `typescript:src/components/EmojiRain.tsx`
+- 음식 이모지가 내리는 애니메이션 효과 - `src/components/EmojiRain.tsx`
 - 귀여운 개미 캐릭터의 말풍선 인터랙션
 - 상황에 맞는 다양한 개미 멘트로 사용자 흥미 유발
 - 데스크톱 환경에 최적화된 UI 제공 -> 모바일 접속 시 친근한 메시지로 안내
