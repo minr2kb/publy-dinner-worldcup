@@ -5,22 +5,6 @@
 
 [Live Demo](https://publy-dinner-worldcup.web.app)
 
-### Author
-
-Kyungbae Min
-
-### Spec
-
-- React
-- TypeScript
-- Vite
-- React-router-dom v6.4
-- Material UI
-- MUI icons
-- React-Query
-- Jotai
-- Firebase
-
 ## 주요 기능 🎯
 
 ### 1. 월드컵 방식의 투표 시스템
